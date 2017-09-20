@@ -1,0 +1,9 @@
+aMatlab_VoiceRecognition_DUBUG_CNT
+ 这个是批量测试的语音识别程序
+
+.\REF\    放的是参考模板语音
+.\TEST\   放的是测试识别语音
+.txtout\  输出的txt文件（存储的相关数据）
+.txtimp\  要导入的txt文件
+
+由于使用到了自己的函数，注意需要添加路径到 MATLAB 的 PATH
